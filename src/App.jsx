@@ -97,7 +97,7 @@ const App = () => {
 
 	return (
 		<>
-			<BrowserRouter>
+			<BrowserRouter basename="/frontendmentor-audiophile-ecommerce-website">
 				<Routes>
 					<Route
 						element={
