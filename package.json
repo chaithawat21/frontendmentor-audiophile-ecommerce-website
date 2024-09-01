@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://chaithawat21.github.io/frontendmentor-audiophile-ecommerce-website",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
